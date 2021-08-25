@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I,m Sourav - aka [jsourav][website] 👋
 
-<!--
-**souravj96/souravj96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fortunately or Unfortunately I'm a developer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [DHSquare]["http://cxhub.ai/]
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- 💬 Ask me about electronics
+- ⚡ Fun fact: I love to work with IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="jsourav.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="sourav.jana.sourav | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="souravjana20 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="souravjana96 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="souravj96 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[website]: https://jsourav.com
+[facebook]: https://www.facebook.com/sourav.jana.sourav
+[twitter]: https://twitter.com/souravjana20
+[linkedin]: https://www.linkedin.com/in/souravjana96
+[instagram]: https://www.instagram.com/souravj96
