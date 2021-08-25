@@ -2,7 +2,7 @@
 
 ## Fortunately or Unfortunately I'm a developer
 
-- 🔭 I’m currently working on [DHSquare]["http://cxhub.ai/"]
+- 🔭 I’m currently working on [DHSquare][company]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -18,6 +18,7 @@
 [<img align="left" alt="souravj96 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://jsourav.com
+[company]: http://cxhub.ai/
 [facebook]: https://www.facebook.com/sourav.jana.sourav
 [twitter]: https://twitter.com/souravjana20
 [linkedin]: https://www.linkedin.com/in/souravjana96
