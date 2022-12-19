@@ -24,7 +24,7 @@
 [company]: https://nes.tech/
 [facebook]: https://www.facebook.com/sourav.jana.sourav
 [twitter]: https://twitter.com/connect2jsourav
-[linkedin]: www.linkedin.com/in/connect2jsourav
+[linkedin]: https://www.linkedin.com/in/connect2jsourav
 [instagram]: https://www.instagram.com/connect2jsourav
 [medium]: https://connect2jsourav.medium.com
 [instructables]: https://www.instructables.com/member/connect2jsourav/
