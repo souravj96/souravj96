@@ -2,10 +2,10 @@
 
 ## Fortunately or Unfortunately I'm a developer
 
-- 🔭 I’m currently working on [DHSquare][company]
+- 🔭 I’m currently working as Full-Stack Developer on [NEST®][company]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - 💬 Ask me about electronics
 - ⚡ Fun fact: I love to work with IoT
 
