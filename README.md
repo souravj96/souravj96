@@ -2,7 +2,7 @@
 
 ## Fortunately or Unfortunately I'm a developer
 
-- 🔭 I’m currently working as Full-Stack Developer on [NEST®][company]
+- 🔭 I’m currently working as Senior Backend Developer at [NEST®][company]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
