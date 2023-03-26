@@ -11,16 +11,17 @@
 
 ### Connect with me:
 
-[<img align="left" width="22px" alt="jsourav.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" width="22px" alt="souravj96" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />][npm]
-[<img align="left" width="22px" alt="sourav-jana" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" width="22px" alt="connect2jsourav" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" width="22px" alt="connect2jsourav" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instructables.svg" />][instructables]
-[<img align="left" width="22px" alt="@brokenbinary" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtubestudio.svg" />][youtube]
-[<img align="left" width="22px" alt="souravjana96 | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" alt="souravjana20 | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" width="22px" alt="souravj96 | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" width="22px" alt="sourav.jana.sourav | Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" width="22px" alt="jsourav.com" src="https://cdn.simpleicons.org/internetexplorer" />][website]
+[<img align="left" width="22px" alt="souravj96" src="https://cdn.simpleicons.org/npm" />][npm]
+[<img align="left" width="22px" alt="sourav-jana" src="https://cdn.simpleicons.org/stackoverflow" />][stackoverflow]
+[<img align="left" width="22px" alt="connect2jsourav" src="https://cdn.simpleicons.org/medium" />][medium]
+[<img align="left" width="22px" alt="connect2jsourav" src="https://cdn.simpleicons.org/instructables" />][instructables]
+[<img align="left" width="22px" alt="@brokenbinary" src="https://cdn.simpleicons.org/youtubestudio" />][youtube]
+[<img align="left" width="22px" alt="sourav.jana.sourav@gmail.com | LinkedIn" src="https://cdn.simpleicons.org/gmail" />][gmail]
+[<img align="left" width="22px" alt="souravjana96 | LinkedIn" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
+[<img align="left" width="22px" alt="souravjana20 | Twitter" src="https://cdn.simpleicons.org/twitter" />][twitter]
+[<img align="left" width="22px" alt="souravj96 | Instagram" src="https://cdn.simpleicons.org/instagram" />][instagram]
+[<img align="left" width="22px" alt="sourav.jana.sourav | Facebook" src="https://cdn.simpleicons.org/facebook" />][facebook]
 
 [website]: https://jsourav.com
 [company]: https://nes.tech/
@@ -31,5 +32,6 @@
 [medium]: https://connect2jsourav.medium.com
 [instructables]: https://www.instructables.com/member/connect2jsourav/
 [youtube]: https://www.youtube.com/@brokenbinary
+[gmail]: mailto:sourav.jana.sourav@gmail.com
 [npm]: https://www.npmjs.com/~souravj96
 [stackoverflow]: https://stackoverflow.com/users/11754590/sourav-jana
