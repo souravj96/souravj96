@@ -13,6 +13,7 @@
 
 [<img align="left" alt="jsourav.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="souravj96" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />][npm]
+[<img align="left" alt="sourav-jana" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="connect2jsourav" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="connect2jsourav" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instructables.svg" />][instructables]
 [<img align="left" alt="@brokenbinary" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtubestudio.svg" />][youtube]
@@ -31,3 +32,4 @@
 [instructables]: https://www.instructables.com/member/connect2jsourav/
 [youtube]: https://www.youtube.com/@brokenbinary
 [npm]: https://www.npmjs.com/~souravj96
+[stackoverflow]: https://stackoverflow.com/users/11754590/sourav-jana
