@@ -1,44 +1,5 @@
-<!-- ### Hi there, I,m Sourav - aka [jsourav][website] 👋
-
-## Fortunately or Unfortunately I'm a developer
-
-- 🔭 I’m currently working as Senior Backend Developer at [NEST®][company]
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- 💬 Ask me about electronics
-- ⚡ Fun fact: I love to work with IoT
-
-### Connect with me:
-
-[<img align="left" width="22px" alt="jsourav.com" src="https://cdn.simpleicons.org/internetexplorer" />][website]
-[<img align="left" width="22px" alt="souravj96" src="https://cdn.simpleicons.org/npm" />][npm]
-[<img align="left" width="22px" alt="sourav-jana" src="https://cdn.simpleicons.org/stackoverflow" />][stackoverflow]
-[<img align="left" width="22px" alt="connect2jsourav" src="https://cdn.simpleicons.org/medium" />][medium]
-[<img align="left" width="22px" alt="connect2jsourav" src="https://cdn.simpleicons.org/instructables" />][instructables]
-[<img align="left" width="22px" alt="@brokenbinary" src="https://cdn.simpleicons.org/youtubestudio" />][youtube]
-[<img align="left" width="22px" alt="sourav.jana.sourav@gmail.com | LinkedIn" src="https://cdn.simpleicons.org/gmail" />][gmail]
-[<img align="left" width="22px" alt="souravjana96 | LinkedIn" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
-[<img align="left" width="22px" alt="souravjana20 | Twitter" src="https://cdn.simpleicons.org/twitter" />][twitter]
-[<img align="left" width="22px" alt="souravj96 | Instagram" src="https://cdn.simpleicons.org/instagram" />][instagram]
-[<img align="left" width="22px" alt="sourav.jana.sourav | Facebook" src="https://cdn.simpleicons.org/facebook" />][facebook]
-
-[website]: https://jsourav.com
-[company]: https://nes.tech/
-[facebook]: https://www.facebook.com/sourav.jana.sourav
-[twitter]: https://twitter.com/connect2jsourav
-[linkedin]: https://www.linkedin.com/in/connect2jsourav
-[instagram]: https://www.instagram.com/connect2jsourav
-[medium]: https://connect2jsourav.medium.com
-[instructables]: https://www.instructables.com/member/connect2jsourav/
-[youtube]: https://www.youtube.com/@brokenbinary
-[gmail]: mailto:sourav.jana.sourav@gmail.com
-[npm]: https://www.npmjs.com/~souravj96
-[stackoverflow]: https://stackoverflow.com/users/11754590/sourav-jana
- -->
-
-<h1 align="center">Hi there, I,m Sourav Jana</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there, I,m Sourav - aka <a href="https://jsourav.com" target="_blank" >jsourav</a>👋</h1>
+<h3 align="center">Fortunately or Unfortunately I'm a developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravj96&label=Profile%20views&color=0e75b6&style=flat" alt="souravj96" /> </p>
 
@@ -46,20 +7,31 @@
 
 <p align="left"> <a href="https://twitter.com/connect2jsourav" target="blank"><img src="https://img.shields.io/twitter/follow/connect2jsourav?logo=twitter&style=for-the-badge" alt="connect2jsourav" /></a> </p>
 
+- 🔭 I’m currently working as Senior Backend Developer at [NEST®](https://nes.tech)
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- 💬 Ask me about electronics
+- ⚡ Fun fact: I love to work with IoT
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/connect2sourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="connect2sourav" height="30" width="40" /></a>
-<a href="https://twitter.com/connect2jsourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="connect2jsourav" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/souravjana96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souravjana96" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11754590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11754590" height="30" width="40" /></a>
-<a href="https://fb.com/sourav.jana.sourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sourav.jana.sourav" height="30" width="40" /></a>
-<a href="https://instagram.com/connect2jsourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="connect2jsourav" height="30" width="40" /></a>
-<a href="https://medium.com/@connect2jsourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@connect2jsourav" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@brokenbinary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@brokenbinary" height="30" width="40" /></a>
+<a href="https://jsourav.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/internetexplorer" alt="jsourav.com" height="30" width="40" /></a>
+<a href="https://www.npmjs.com/~souravj96" target="blank"><img align="center" src="https://cdn.simpleicons.org/npm" alt="souravj96" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11754590" target="blank"><img align="center" src="https://cdn.simpleicons.org/stackoverflow" alt="11754590" height="30" width="40" /></a>
+<a href="https://medium.com/@connect2jsourav" target="blank"><img align="center" src="https://cdn.simpleicons.org/medium" alt="@connect2jsourav" height="30" width="40" /></a>
+<a href="https://www.instructables.com/member/connect2jsourav" target="blank"><img align="center" src="https://cdn.simpleicons.org/instructables" alt="connect2jsourav" height="30" width="40" /></a>
+<a href="https://dev.to/connect2sourav" target="blank"><img align="center" src="https://cdn.simpleicons.org/devdotto" alt="connect2sourav" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@brokenbinary" target="blank"><img align="center" src="https://cdn.simpleicons.org/youtubestudio" alt="@brokenbinary" height="30" width="40" /></a>
+<a href="mailto:sourav.jana.sourav@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="sourav.jana.sourav@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/souravjana96" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="souravjana96" height="30" width="40" /></a>
+<a href="https://twitter.com/connect2jsourav" target="blank"><img align="center" src="https://cdn.simpleicons.org/twitter" alt="connect2jsourav" height="30" width="40" /></a>
+<a href="https://instagram.com/connect2jsourav" target="blank"><img align="center" src="https://cdn.simpleicons.org/instagram" alt="connect2jsourav" height="30" width="40" /></a>
+<a href="https://fb.com/sourav.jana.sourav" target="blank"><img align="center" src="https://cdn.simpleicons.org/facebook" alt="sourav.jana.sourav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
