@@ -27,11 +27,9 @@
 ### 📕 Blogs posts
 ---
 <!-- BLOG-POST-LIST:START -->
-- [Why a NAS Drive is the Ultimate Media Streaming Solution](https://www.youtube.com/watch?v=fy0QHrFihNQ)
-- [Conventional Storage vs. Network-Attached Storage: Pros and Cons](https://www.youtube.com/watch?v=0W_VS3cWtKo)
-- [Revolutionise Your Storage with Network Attached Storage &lpar;NAS&rpar; - Explained in 60 Seconds!](https://www.youtube.com/watch?v=y72DHTUf-o4)
-- [Introducing NAS: The Ultimate Solution for Secure Data Storage and Sharing | YouTube Shorts](https://www.youtube.com/watch?v=j9j65vhAiUM)
-- [Creative Pebble Plus -The best 2.1 desktop speaker at Rs 3000](https://www.youtube.com/watch?v=bBCH8xhdTKg)
+- [Automate Prettier for React Application](https://connect2jsourav.medium.com/automate-prettier-for-react-application-647410540d6?source=rss-55fdaffa4e47------2)
+- [Create React Application](https://connect2jsourav.medium.com/create-react-application-cadcd2fc4c7d?source=rss-55fdaffa4e47------2)
+- [AWS Lambda CLI Setup with Deployment Script](https://connect2jsourav.medium.com/aws-lambda-cli-setup-with-deployment-script-6cbdbd81fd19?source=rss-55fdaffa4e47------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
