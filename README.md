@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravj96&label=Profile%20views&color=0e75b6&style=flat" alt="souravj96" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravj96" alt="souravj96" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/connect2jsourav" target="blank"><img src="https://img.shields.io/twitter/follow/connect2jsourav?logo=twitter&style=for-the-badge" alt="connect2jsourav" /></a> </p>
 
 - 🔭 I’m currently working as Senior Backend Developer at [NEST®](https://nes.tech)
