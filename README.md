@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Sourav - aka <a href="https://jsourav.com" target="_blank" >jsourav</a>👋</h1>
 <h3 align="center">Fortunately or Unfortunately I'm a developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souravj96&label=Profile%20views&color=0e75b6&style=flat" alt="souravj96" /> </p>
-
-<p align="left"> <a href="https://twitter.com/connect2jsourav" target="blank"><img src="https://img.shields.io/twitter/follow/connect2jsourav?logo=twitter&style=for-the-badge" alt="connect2jsourav" /></a> </p>
-
 - 🔭 I’m currently working as Senior Backend Developer at [NEST®](https://nes.tech)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
