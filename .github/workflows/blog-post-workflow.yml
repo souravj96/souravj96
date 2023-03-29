@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOG-POST-LIST"
-          feed_list: "https://medium.com/feed/@connect2jsourav, https://rss.app/feeds/HkgCzfaz6h5HHkcN.xml"
+          feed_list: "https://medium.com/feed/@connect2jsourav"
