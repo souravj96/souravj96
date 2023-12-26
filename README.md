@@ -11,11 +11,11 @@
 ### 🎬 Youtube Videos
 ---
 <!-- YOUTUBE:START -->
+- [DIY Electronics: Arduino Seven-Segment Display with Bluetooth Control](https://www.youtube.com/watch?v=DiFS6xjfN4w)
 - [Why a NAS Drive is the Ultimate Media Streaming Solution](https://www.youtube.com/watch?v=fy0QHrFihNQ)
 - [Conventional Storage vs. Network-Attached Storage: Pros and Cons](https://www.youtube.com/watch?v=0W_VS3cWtKo)
 - [Revolutionise Your Storage with Network Attached Storage &lpar;NAS&rpar; - Explained in 60 Seconds!](https://www.youtube.com/watch?v=y72DHTUf-o4)
 - [Introducing NAS: The Ultimate Solution for Secure Data Storage and Sharing | YouTube Shorts](https://www.youtube.com/watch?v=j9j65vhAiUM)
-- [Creative Pebble Plus -The best 2.1 desktop speaker at Rs 3000](https://www.youtube.com/watch?v=bBCH8xhdTKg)
 <!-- YOUTUBE:END -->
 
 ### 📕 Blogs posts
