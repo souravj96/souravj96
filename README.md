@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Sourav - aka <a href="https://jsourav.com" target="_blank" >jsourav</a>👋</h1>
 <h3 align="center">Fortunately or Unfortunately I'm a developer</h3>
 
-- 🔭 I’m currently working as Senior Backend Developer at [NEST®](https://nes.tech)
+- 🔭 I’m currently working as a Senior Backend Developer at [NEST®](https://nes.tech)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - 💬 Ask me about electronics
 - ⚡ Fun fact: I love to work with IoT
 
@@ -18,7 +18,7 @@
 - [Introducing NAS: The Ultimate Solution for Secure Data Storage and Sharing | YouTube Shorts](https://www.youtube.com/watch?v=j9j65vhAiUM)
 <!-- YOUTUBE:END -->
 
-### 📕 Blogs posts
+### 📕 Blog posts
 ---
 <!-- BLOG-POST-LIST:START -->
 - [Automate Prettier for React Application](https://connect2jsourav.medium.com/automate-prettier-for-react-application-647410540d6?source=rss-55fdaffa4e47------2)
