@@ -11,7 +11,7 @@
 ### 🎬 Youtube Videos
 ---
 <!-- YOUTUBE:START -->
-- [The Secret to FREE Cloud Storage: DIY Raspberry Pi NAS!](https://www.youtube.com/watch?v=afe_3T3anW8)
+- [Top Hack for Free Cloud Storage: Raspberry Pi NAS Setup!](https://www.youtube.com/watch?v=afe_3T3anW8)
 - [DIY Electronics: Arduino Seven-Segment Display with Bluetooth Control](https://www.youtube.com/watch?v=DiFS6xjfN4w)
 - [Why a NAS Drive is the Ultimate Media Streaming Solution](https://www.youtube.com/watch?v=fy0QHrFihNQ)
 - [Conventional Storage vs. Network-Attached Storage: Pros and Cons](https://www.youtube.com/watch?v=0W_VS3cWtKo)
