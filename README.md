@@ -35,7 +35,7 @@
 <a href="https://medium.com/@connect2jsourav" target="blank"><img align="center" src="https://cdn.simpleicons.org/medium" alt="@connect2jsourav" height="30" width="40" /></a>
 <a href="https://www.instructables.com/member/connect2jsourav" target="blank"><img align="center" src="https://cdn.simpleicons.org/instructables" alt="connect2jsourav" height="30" width="40" /></a>
 <a href="https://dev.to/connect2sourav" target="blank"><img align="center" src="https://cdn.simpleicons.org/devdotto" alt="connect2sourav" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@brokenbinary" target="blank"><img align="center" src="https://cdn.simpleicons.org/youtubestudio" alt="@brokenbinary" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@brokenbinary" target="blank"><img align="center" src="https://cdn.simpleicons.org/youtubestudio" alt="@brokenbinary" height="30" width="40" /></a>
 <a href="mailto:sourav.jana.sourav@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="sourav.jana.sourav@gmail.com" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/souravjana96" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="souravjana96" height="30" width="40" /></a>
 <a href="https://twitter.com/connect2jsourav" target="blank"><img align="center" src="https://cdn.simpleicons.org/twitter" alt="connect2jsourav" height="30" width="40" /></a>
