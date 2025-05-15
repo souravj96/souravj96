@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a Senior Backend Developer at [NEST®](https://nes.tech)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - 💬 Ask me about electronics
 - ⚡ Fun fact: I love to work with IoT
 
