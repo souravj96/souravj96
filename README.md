@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sourav - aka <a href="https://jsourav.com" target="_blank" >jsourav</a>👋</h1>
 <h3 align="left">Fortunately or Unfortunately I'm a developer</h3>
 
-- 🔭 I’m currently working as a Senior Backend Developer at [TCS](https://tcs.com)
+- 🔭 I’m currently working as Assistant Consultant at [TCS](https://tcs.com)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2025 Goals: Contribute more to Open Source projects
