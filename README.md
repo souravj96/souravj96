@@ -22,11 +22,11 @@
 ### 🎬 Youtube Videos
 ---
 <!-- YOUTUBE:START -->
+- [SentraMatrix: Build a Smart WiFi Display with ESP8266 + MQTT | Full Setup &amp; Demo](https://www.youtube.com/watch?v=y-1i0Nu5tL8)
 - [Simplify App Management: Docker &amp; Portainer on OMV 6 with New OMV-Extras](https://www.youtube.com/watch?v=cX7Af89QbYA)
 - [Ditch the Terminal! Manage Docker with Portainer #tech #docker #openmediavault #raspberrypi](https://www.youtube.com/shorts/9PZDMKHR3xU)
 - [Top Hack for Free Cloud Storage: Raspberry Pi NAS Setup!](https://www.youtube.com/watch?v=afe_3T3anW8)
 - [DIY Electronics: Arduino Seven-Segment Display with Bluetooth Control](https://www.youtube.com/shorts/DiFS6xjfN4w)
-- [Why a NAS Drive is the Ultimate Media Streaming Solution](https://www.youtube.com/shorts/fy0QHrFihNQ)
 <!-- YOUTUBE:END -->
 
 ### 📕 Blog posts
