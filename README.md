@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as Assistant Consultant at [TCS](https://tcs.com)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - 💬 Ask me about electronics
 - ⚡ Fun fact: I love to work with IoT
 
